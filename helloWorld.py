@@ -1,4 +1,6 @@
-name = input(" What is your name? ")
+First_name = input(" What is your first name? ")
 
-print(name)
+
+
+print(First_name)
 
